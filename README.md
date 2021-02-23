@@ -36,7 +36,7 @@ We plot data to visualise and understand dataset. We will then use these insight
     Success and Currency — No Correlation
     Success and Characters / Words Length — Weak Correlation.
     Character Limit at 60, set by Kickstarter
-    Word Frequencies — Popular and Unpopular words which appear more often in the title
+    Word Frequencies — The most Popular Words on the Successful / Failed project name
     
 #### 2.3  Data Visualisation — Heatmap
     Heatmap that confirms strong relationship between pledged amount and backers. Nothing out of ordinary
