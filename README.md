@@ -69,9 +69,9 @@ The 3 major action taken to get a better prediction model is 1)Scaling to a diff
     After Tuning -- Accuracy 
 
 ## 4 -- Conclusion
-To Kickstart Kickstarting success, we suggest to prioritise the project properies such as 1) being featured by Kickstarter 2) social media features 3) have more than 20 backers. These 3 features build a strong foundation to place the project in the success category.
+To Kickstart Kickstarting success, it requires both the effort outside of the comfort of  Model Prediction. Hence, we suggest to prioritise the project properies such as 1) being featured by Kickstarter 2) social media features 3) have more than 20 backers. These 3 features build a strong foundation to place the project in the success category.
 
-Then deploy XGBoost classifier model to determine success rate of a project launch, prior to an official launch.
+Then deploy XGBoost classifier model to determine success rate of a project launch, at approximately 68% is a good sign, prior to an official launch. 
 
 
 
