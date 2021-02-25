@@ -53,20 +53,20 @@ Ultimately XGBoost shows the best performance with a greatest Accuracy Score of 
 The 3 major action taken to get a better prediction model is 1)Scaling to a different range to give greater weight for certain features 2) Taking Log Scale of "Goal Amount" provided marginally better results 3) Attempts at reengineering features resulted in <1% change for model.
 
 #### 3.1  Decision Tree
-    Before Tuning -- Accuracy
-    After Tuning -- Accuracy
+    Before Tuning -- 62.2%
+    After Tuning -- 68.6%
 #### 3.2  Random Forest
-    Before Tuning -- Accuracy
-    After Tuning -- Accuracy
+    Before Tuning -- 66.0%
+    After Tuning -- 68.5%
 #### 3.3  Logistic Regression
-    Before Tuning -- Accuracy
-    After Tuning -- Accuracy 
+    Before Tuning -- 68.4%
+    After Tuning -- 69.1% 
 #### 3.4  XGBoost
-    Before Tuning -- Accuracy
-    After Tuning -- Accuracy 
+    Before Tuning -- 69.7%
+    After Tuning -- 70.2% 
 #### 3.5  AdaBoost
-    Before Tuning -- Accuracy
-    After Tuning -- Accuracy 
+    Before Tuning -- 64.4%
+    After Tuning -- 67.9%
 
 ## 4 -- Conclusion
 To Kickstart Kickstarting success, it requires both the effort outside of the comfort of  Model Prediction. Hence, we suggest to prioritise the project properies such as 1) being featured by Kickstarter 2) social media features 3) have more than 20 backers. These 3 features build a strong foundation to place the project in the success category.
